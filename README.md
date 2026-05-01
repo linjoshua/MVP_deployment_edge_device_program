@@ -33,7 +33,7 @@ On a brand new Windows Edge Device, please install the following foundational so
 
 Open the **Anaconda Prompt** and execute the following commands sequentially to build the core environment:
 
-1. Create and activate the virtual environment**
+**1. Create and activate the virtual environment**
 ```bash
 conda create -n gst311 python=3.11 -y
 conda activate gst311
